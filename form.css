@@ -25,6 +25,7 @@ body {
     -ms-flex: 75%; /* IE10 */
     flex: 75%;
   }
+
   
   .col-50,
   .col-75 {
